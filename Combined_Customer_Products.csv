@@ -1,0 +1,101 @@
+Customer_ID,Name,Age,Gender,Email,Phone,City,Profession,Income (?/year),Driver_License_Number,Passport_Number,Employer_Name,Occupation,Contact_Preference,Loan_Instant_Personal_Loan,Mutual_Funds_Smart_SIP_Plan,FD_RD_Digital_FD,Credit_Card_Rewards_Program,Insurance_Combo_Life_Health_Plan,Insurance_Life_Secure_Plan,Insurance_Health_Shield_Plan
+abram_ahluwalia_id,Lavanya Kota,35,Female,lavanyakota@example.com,7977935788,Pune,Marketing Head,1529771,pt358170,P39609095,Rajan-Chanda,Textile designer,Email,Yes,No,No,No,No,No,Yes
+hansh_sethi_id,Gatik Vyas,41,Male,gatikvyas@example.com,9955537327,Bangalore,Retired,1949136,ba272846,P48506478,Raval-Dara,Airline pilot,SMS,No,Yes,No,No,No,No,No
+ishaan_dada_id,Ayesha Sarna,26,Male,ayeshasarna@example.com,9804429466,Ahmedabad,Start-up Founder,644625,uR957113,P21852297,"Dada, Rout and Sachdev",Physiological scientist,Phone,No,Yes,Yes,No,Yes,No,No
+jiya_de_id,Abram Dada,27,Other,abramdada@example.com,8203119046,Chennai,Retired,2055814,xf083861,P17497295,Varkey-Kade,Solicitor,SMS,No,No,No,No,No,Yes,No
+damini_hayre_id,Charvi Lata,42,Other,charvilata@example.com,7798343537,Delhi,Doctor,2916792,EP196728,P52170030,Sahota Inc,Environmental health practitioner,SMS,No,Yes,No,No,No,No,Yes
+navya_solanki_id,Pihu Jain,50,Female,pihujain@example.com,7620811406,Mumbai,Sales Executive,1679381,NP135612,P37098775,Gupta PLC,"Scientist, clinical (histocompatibility and immunogenetics)",Email,No,No,Yes,Yes,No,No,Yes
+neysa_master_id,Vedika Kumer,51,Female,vedikakumer@example.com,6581363544,Kolkata,Retired,411686,ep978927,P65029381,Bhasin-Doctor,Psychiatric nurse,Phone,No,No,Yes,No,No,No,No
+drishya_dhillon_id,Mamooty Thakkar,44,Female,mamootythakkar@example.com,9808152198,Mumbai,Doctor,1869523,zw985976,P59418060,Talwar-Sundaram,"Surveyor, insurance",Phone,No,Yes,Yes,Yes,Yes,Yes,No
+rhea_kara_id,Vanya Bhakta,43,Male,vanyabhakta@example.com,7742247911,Hyderabad,Start-up Founder,724857,Co308349,P19655390,Bhavsar Inc,Analytical chemist,SMS,No,No,Yes,No,No,Yes,Yes
+ivan_bhat_id,Nayantara Keer,51,Male,nayantarakeer@example.com,9940556634,Chennai,Banker,2631216,Bq288101,P65273592,"Majumdar, Ghosh and Cheema","Lighting technician, broadcasting/film/video",SMS,No,No,No,No,Yes,No,No
+arnav_borde_id,Khushi Bal,27,Female,khushibal@example.com,7483227084,Chennai,Sales Executive,318169,Ky653010,P52388183,Ghose-Kumar,Financial adviser,Email,No,Yes,No,No,No,Yes,No
+elakshi_gala_id,Umang Lalla,41,Male,umanglalla@example.com,7478681646,Hyderabad,IT Professional,2964751,uA053778,P82840423,Mane-Bajwa,Counsellor,Phone,Yes,Yes,Yes,No,Yes,No,Yes
+vivaan_raj_id,Devansh Halder,26,Female,devanshhalder@example.com,6267820052,Bangalore,Retired,817972,Kb392387,P14559106,"Kari, Majumdar and Hayer","Editor, magazine features",Phone,No,Yes,Yes,No,No,No,No
+amira_gole_id,Ritvik Dutta,45,Male,ritvikdutta@example.com,6182440668,Chennai,Teacher,2449279,DU754339,P47654732,Dutt Ltd,Electronics engineer,Email,No,Yes,No,No,Yes,No,Yes
+kimaya_zachariah_id,Sahil Krish,65,Other,sahilkrish@example.com,7141919473,Bangalore,Start-up Founder,456404,Lw048678,P33274184,Ravel and Sons,"Geologist, wellsite",SMS,No,No,No,No,Yes,No,No
+zoya_dixit_id,Divit Mall,65,Female,divitmall@example.com,6842816060,Chennai,Sales Executive,2684953,PB285364,P12506145,Sarraf LLC,Financial risk analyst,Email,Yes,Yes,Yes,Yes,No,Yes,No
+sara_sodhi_id,Samar Gopal,44,Male,samargopal@example.com,8521382877,Kochi,Doctor,1749187,os117695,P01904356,"Dhar, Dhaliwal and Mahajan",Tourism officer,Email,No,No,No,Yes,Yes,No,No
+mahika_yogi_id,Aarna Ram,58,Male,aarnaram@example.com,9244426186,Bangalore,Retired,481084,Jk462733,P97585575,Bhatti-Bansal,Careers information officer,SMS,No,No,No,No,Yes,No,No
+ira_vig_id,Zaina Andra,28,Female,zainaandra@example.com,7687672690,Mumbai,Doctor,1258695,nE433486,P99601786,"Acharya, Kata and Soman","Scientist, audiological",Email,No,Yes,Yes,No,No,Yes,Yes
+vardaniya_sinha_id,Anika Gulati,35,Male,anikagulati@example.com,9442087353,Kolkata,Marketing Head,1591656,kZ795099,P58061714,"Thaman, Kothari and Majumdar","Designer, exhibition/display",Phone,Yes,No,No,No,No,Yes,No
+ahana__ranganathan_id,Seher Saha,55,Male,sehersaha@example.com,9751750418,Delhi,HR Manager,1294182,cO486609,P67052151,"Handa, Swaminathan and Balakrishnan",Armed forces operational officer,Email,No,Yes,Yes,No,No,Yes,No
+anika_divan_id,Nitara Khurana,35,Female,nitarakhurana@example.com,8350743309,Pune,Retired,1321567,Pm678651,P18004580,Chawla-Deep,"Nurse, mental health",SMS,No,No,No,No,No,Yes,Yes
+jayesh_mangal_id,Advika Lalla,40,Male,advikalalla@example.com,6671696571,Bangalore,Doctor,1617795,XJ909545,P22691349,Sangha and Sons,Personal assistant,Email,No,No,Yes,No,No,Yes,No
+manjari_kurian_id,Samaira Shah,37,Female,samairashah@example.com,7109250082,Hyderabad,Retired,1027204,bt231394,P19640761,"Singh, Mall and Dey","Scientist, audiological",Email,No,No,No,No,No,No,Yes
+sara_borde_id,Eva Khanna,60,Male,evakhanna@example.com,8465335621,Jaipur,Start-up Founder,2649614,KZ514386,P50058647,Krish-Gera,Cartographer,Email,No,No,No,No,No,Yes,No
+saksham_singhal_id,Saksham Bajaj,31,Female,sakshambajaj@example.com,9162917348,Ahmedabad,Doctor,739085,so112290,P51436828,Soni-Mane,"Engineer, broadcasting (operations)",SMS,Yes,No,No,No,No,No,No
+samarth_kakar_id,Sumer Shetty,51,Male,sumershetty@example.com,8377659177,Chennai,Freelancer,407221,yJ311583,P87341898,"Kari, Kohli and Bail","Programmer, applications",Email,Yes,No,No,No,No,Yes,No
+neelofar_rana_id,Tushar Saini,51,Male,tusharsaini@example.com,8875308717,Delhi,Doctor,1796904,VZ953367,P22594113,Gandhi-Kakar,Print production planner,SMS,No,No,Yes,No,Yes,No,No
+zoya_ratta_id,Bhavin Mammen,64,Female,bhavinmammen@example.com,8803968464,Bangalore,Banker,863639,Jt353318,P84285013,Chand-Subramanian,"Engineer, communications",Email,No,No,Yes,Yes,Yes,Yes,Yes
+vedika_dewan_id,Sahil Yadav,22,Other,sahilyadav@example.com,9205666002,Bangalore,HR Manager,2603132,tx487034,P06259462,Ahluwalia LLC,Dietitian,Email,Yes,Yes,No,Yes,No,No,No
+ira_shah_id,Zara Kapadia,40,Other,zarakapadia@example.com,9638539011,Bangalore,HR Manager,1378749,KQ499254,P99517762,Kala and Sons,Analytical chemist,Phone,No,Yes,No,No,Yes,No,No
+indrans_sekhon_id,Vidur Kala,33,Female,vidurkala@example.com,8382202205,Pune,Teacher,2185270,um043861,P82531900,"Krishnamurthy, Kumar and Sagar",Retail buyer,SMS,Yes,Yes,No,No,Yes,Yes,No
+hiran_dua_id,Suhana Bhandari,63,Other,suhanabhandari@example.com,8276694143,Chennai,Sales Executive,835062,Bw825243,P28621033,Soni Inc,"Engineer, electronics",Phone,No,Yes,No,Yes,Yes,Yes,Yes
+divij_jayaraman_id,Sumer Batra,29,Male,sumerbatra@example.com,9853674471,Bangalore,IT Professional,644854,rV594148,P84685949,Agarwal-Date,Exercise physiologist,Email,No,No,No,Yes,Yes,Yes,No
+onkar_bala_id,Aaryahi Sridhar,53,Male,aaryahisridhar@example.com,6660896078,Delhi,Marketing Head,409990,aE446105,P31913273,Brahmbhatt-Krish,Catering manager,Email,Yes,No,No,Yes,Yes,Yes,No
+fateh_verma_id,Vanya Bhavsar,46,Male,vanyabhavsar@example.com,7603788336,Chennai,Retired,745293,Zr721875,P32354492,Sathe-Kannan,Fast food restaurant manager,Phone,No,No,No,No,Yes,Yes,No
+aniruddh_kade_id,Shlok Sarkar,43,Female,shloksarkar@example.com,8110378617,Hyderabad,IT Professional,1500586,po685801,P09880714,"Barman, Halder and Sibal",Advertising art director,Email,No,No,No,Yes,No,No,No
+kismat_dhawan_id,Dhanush Walia,59,Male,dhanushwalia@example.com,7233800413,Bangalore,Marketing Head,2985261,bg564806,P42497826,Kant-Karan,Advice worker,Phone,Yes,Yes,No,No,No,Yes,Yes
+aayush_iyer_id,Tanya Vora,44,Other,tanyavora@example.com,9134189366,Kochi,Retired,1423035,Dn435436,P05082542,Gopal-Kala,Learning disability nurse,Phone,Yes,No,Yes,Yes,No,Yes,No
+lakshay_dhar_id,Vivaan Borah,30,Male,vivaanborah@example.com,6577098019,Kochi,Freelancer,1915678,io990409,P27545945,"Raja, Kara and Tank",Financial risk analyst,Email,Yes,No,Yes,No,No,No,No
+himmat_shroff_id,Aaina Sankaran,50,Female,aainasankaran@example.com,8311156131,Bangalore,Teacher,2871698,yu743176,P05669190,Chand-Batta,Geophysicist/field seismologist,Email,No,No,No,No,No,No,No
+darshit_balan_id,Saksham Choudhary,63,Male,sakshamchoudhary@example.com,7512524418,Chennai,Freelancer,748799,Sf950211,P20595948,Mall-Sarma,Chartered loss adjuster,SMS,No,No,No,No,Yes,No,No
+aniruddh_sur_id,Krish Saxena,22,Other,krishsaxena@example.com,6256919483,Kochi,IT Professional,2922335,Os313601,P86965321,Sachar-Gill,Retail banker,SMS,Yes,Yes,Yes,No,Yes,Yes,No
+renee_handa_id,Mehul Sharaf,55,Other,mehulsharaf@example.com,6686118158,Chennai,HR Manager,1986495,QX869214,P62412284,Chand Ltd,Estate agent,Email,Yes,No,Yes,No,Yes,Yes,Yes
+vihaan_dey_id,Madhup Bala,30,Male,madhupbala@example.com,8804135332,Pune,Teacher,515895,eS899902,P68467758,"Sahni, Deo and Chanda",Applications developer,Email,No,Yes,Yes,No,No,Yes,Yes
+pranay_ramachandran_id,Shamik Kothari,58,Female,shamikkothari@example.com,9398663018,Chennai,Retired,1611384,Zk939188,P93916790,"Sankaran, Rastogi and Sane",Corporate investment banker,SMS,No,No,Yes,No,No,Yes,Yes
+manjari_dey_id,Anahi Hayer,35,Other,anahihayer@example.com,6295900441,Mumbai,Marketing Head,999925,Eu770162,P79354449,Wason Inc,Paramedic,SMS,Yes,Yes,No,Yes,No,Yes,No
+ira_barman_id,Biju Amble,28,Female,bijuamble@example.com,9503158194,Kochi,Doctor,1011374,pF497215,P51670036,Sengupta and Sons,Multimedia programmer,Phone,No,Yes,No,No,No,Yes,No
+gatik_baria_id,Prerak Bandi,33,Female,prerakbandi@example.com,7367486674,Kochi,Marketing Head,2254827,Bc154308,P16029455,Ramesh-Goel,Hydrologist,Phone,No,No,Yes,No,No,No,No
+alisha_deol_id,Advika Varkey,40,Male,advikavarkey@example.com,7563505214,Kolkata,Teacher,2280157,JV755297,P71072585,Talwar Inc,Occupational therapist,Email,Yes,No,No,Yes,Yes,Yes,No
+akarsh_som_id,Shlok Aggarwal,62,Other,shlokaggarwal@example.com,9364423794,Chennai,Banker,1555739,Bs087532,P37625245,"Ramaswamy, Dara and Gala","Merchandiser, retail",SMS,No,Yes,No,No,Yes,No,Yes
+ishaan_khare_id,Gokul Basak,36,Female,gokulbasak@example.com,7875848095,Ahmedabad,Banker,1517646,bt887428,P81990485,Sawhney LLC,"Exhibitions officer, museum/gallery",Phone,No,No,No,No,No,No,No
+ira_zachariah_id,Mehul Ray,38,Female,mehulray@example.com,6704918586,Kolkata,Start-up Founder,2894424,Ql850633,P54811105,"Rastogi, Bobal and Ahluwalia",Patent examiner,SMS,No,No,No,Yes,Yes,Yes,Yes
+kiara_kannan_id,Rania Sathe,62,Other,raniasathe@example.com,7335182403,Mumbai,HR Manager,2597539,cH571551,P86451593,"Chawla, Thakkar and Dass",Private music teacher,Email,No,No,Yes,Yes,No,No,No
+dhanuk_lalla_id,Vaibhav Dara,58,Other,vaibhavdara@example.com,7676203211,Chennai,Banker,2498804,oq973077,P40134905,"Bahl, Lala and Sidhu",Ship broker,Email,No,No,No,No,No,No,No
+jiya_chokshi_id,Indrans Atwal,50,Female,indransatwal@example.com,8998566491,Kolkata,Banker,2992666,Dm900802,P46246125,"Lalla, Varty and Dewan","Therapist, music",SMS,No,No,Yes,No,No,No,No
+bhamini_kumer_id,Aniruddh Kota,29,Female,aniruddhkota@example.com,7249827612,Bangalore,HR Manager,723197,xS046660,P48641597,"Mani, Bassi and Shetty",Midwife,Email,No,Yes,Yes,No,No,Yes,No
+samar_yohannan_id,Piya Bahri,35,Male,piyabahri@example.com,6386859268,Hyderabad,Teacher,2562553,Te617635,P02948089,Saran Inc,Clinical biochemist,Phone,Yes,Yes,Yes,No,No,No,Yes
+rasha_sani_id,Neysa Malhotra,44,Female,neysamalhotra@example.com,9925892726,Delhi,Banker,2614350,vb904499,P29463548,"Malhotra, Din and Sahni","Teacher, special educational needs",Email,No,Yes,No,No,No,Yes,No
+advika_wadhwa_id,Hazel Tella,60,Female,hazeltella@example.com,9650559889,Kochi,Start-up Founder,455535,qW858002,P90887824,Goel PLC,"Engineer, manufacturing systems",SMS,No,No,Yes,No,Yes,Yes,No
+sahil_gandhi_id,Jiya Sahota,56,Male,jiyasahota@example.com,7976056792,Mumbai,Freelancer,1555735,hT214644,P22559286,Karpe Inc,Air traffic controller,Email,No,No,Yes,No,No,Yes,Yes
+anvi_banerjee_id,Siya Borah,41,Other,siyaborah@example.com,6140332557,Ahmedabad,Retired,843547,Es861536,P91639831,Khatri Ltd,"Solicitor, Scotland",SMS,No,No,No,No,No,No,No
+nitara_solanki_id,Tara Tank,42,Female,taratank@example.com,6215103048,Mumbai,Retired,711827,Gg212793,P73721542,Yadav-Thakkar,"Programmer, applications",Email,No,No,Yes,No,No,No,No
+vihaan_ben_id,Sahil Baria,53,Other,sahilbaria@example.com,7511481436,Ahmedabad,Retired,2249825,Nr703358,P36141990,Andra-Bail,Insurance claims handler,Email,No,No,No,No,Yes,No,No
+trisha_dora_id,Mohanlal Kala,48,Other,mohanlalkala@example.com,8535466473,Hyderabad,Freelancer,890501,yj468472,P82116632,Khurana-Borde,Rural practice surveyor,SMS,No,No,No,No,No,No,No
+anaya_sarraf_id,Advika Gandhi,45,Female,advikagandhi@example.com,9191729808,Jaipur,Marketing Head,1994871,sx200537,P52921299,Jaggi LLC,Barrister's clerk,Email,Yes,Yes,Yes,No,No,No,Yes
+kanav_krishnan_id,Indrans Bassi,29,Male,indransbassi@example.com,7467457310,Delhi,Banker,2032029,am403665,P93173237,Dugar-Kumer,Electrical engineer,Email,Yes,No,Yes,No,No,No,No
+zaina_bath_id,Advik Dube,29,Female,advikdube@example.com,8614066009,Kolkata,Banker,334528,dn347597,P56094791,Luthra and Sons,Illustrator,Phone,Yes,No,Yes,No,No,No,Yes
+seher_yohannan_id,Sumer Chaudhuri,24,Female,sumerchaudhuri@example.com,7926284227,Jaipur,Start-up Founder,1710823,cy228593,P12452275,Shanker PLC,"Designer, multimedia",Phone,Yes,No,No,No,No,No,No
+romil_bahri_id,Biju Devi,35,Female,bijudevi@example.com,6643766637,Mumbai,HR Manager,2276114,Ih205075,P27443001,Bhatti LLC,Commercial/residential surveyor,Phone,No,No,No,No,No,Yes,No
+madhav_chacko_id,Tiya Agarwal,26,Male,tiyaagarwal@example.com,8911140754,Hyderabad,Teacher,897802,iw443915,P88382850,Raman-Desai,Legal executive,Phone,No,Yes,No,No,No,No,No
+pari_kohli_id,Kiara Varghese,33,Male,kiaravarghese@example.com,6137369328,Mumbai,Start-up Founder,2900683,hj636413,P08219909,"Thaker, Jha and Bandi",Editorial assistant,Phone,No,Yes,Yes,No,Yes,No,No
+riya_basak_id,Yakshit Bains,25,Other,yakshitbains@example.com,7577532124,Kolkata,Retired,309697,kk645932,P96073268,"Suresh, Tandon and Dixit",Chief Strategy Officer,Phone,Yes,No,No,No,No,No,Yes
+anay_sarin_id,Zoya Biswas,53,Female,zoyabiswas@example.com,7406709763,Kolkata,Marketing Head,1066283,XW768964,P13162556,Vyas-Ray,Publishing copy,Phone,No,No,No,No,Yes,Yes,Yes
+nitya_chokshi_id,Shaan Iyer,47,Male,shaaniyer@example.com,8811445472,Pune,Freelancer,580563,zA437083,P10060015,Rama-Manne,Trading standards officer,Phone,Yes,Yes,Yes,No,No,Yes,No
+drishya_kaur_id,Tiya Ramakrishnan,44,Male,tiyaramakrishnan@example.com,6176378564,Chennai,Freelancer,1292896,VL535385,P69068160,Bumb-Deshpande,Dancer,SMS,No,Yes,Yes,No,No,No,No
+aaryahi_banerjee_id,Suhana Bhargava,63,Male,suhanabhargava@example.com,7992456318,Delhi,Start-up Founder,1122388,RA237850,P16233171,"Sampath, Gala and Ranganathan",Dispensing optician,SMS,No,Yes,Yes,No,No,No,No
+elakshi_tara_id,Lakshay Walia,57,Other,lakshaywalia@example.com,9405311722,Delhi,HR Manager,429308,ii840222,P45372395,"Srinivasan, Dash and Krish",Radiation protection practitioner,Phone,Yes,No,Yes,Yes,No,No,No
+drishya_kadakia_id,Mannat Jain,29,Male,mannatjain@example.com,9519085649,Kochi,Doctor,602937,VU849179,P96295424,Bora-Goyal,Product designer,Phone,No,No,No,Yes,No,No,No
+ritvik_chandran_id,Amani Mandal,51,Male,amanimandal@example.com,6577576006,Kolkata,IT Professional,2084945,UJ969275,P80187243,Dugal Group,"Scientist, research (life sciences)",Email,No,Yes,No,No,Yes,No,No
+sumer_hayre_id,Neelofar Gill,45,Male,neelofargill@example.com,7450423293,Hyderabad,Sales Executive,2715780,eG094499,P95548119,Chakrabarti PLC,Insurance broker,SMS,No,Yes,Yes,No,Yes,No,No
+umang_bajaj_id,Sara Vasa,27,Male,saravasa@example.com,7998543121,Kochi,IT Professional,2502638,qB750767,P22545711,"Lala, Anne and Chaudhary","Runner, broadcasting/film/video",SMS,Yes,No,Yes,Yes,No,No,Yes
+hrishita_dash_id,Gokul Bora,24,Female,gokulbora@example.com,6847867637,Kochi,IT Professional,2809738,lF345646,P81624088,Chanda LLC,Outdoor activities/education manager,Email,No,No,Yes,No,No,No,Yes
+indrans_kale_id,Gokul Mall,39,Other,gokulmall@example.com,8864159402,Chennai,Start-up Founder,845137,sS609610,P26574584,Gole Inc,Clinical molecular geneticist,Email,Yes,No,Yes,No,Yes,No,No
+manjari_magar_id,Ira Rana,36,Female,irarana@example.com,8169770298,Chennai,Start-up Founder,1638266,GB076224,P21757227,Aggarwal Group,Artist,SMS,Yes,Yes,Yes,No,No,No,No
+sumer_arora_id,Ojas Sanghvi,46,Other,ojassanghvi@example.com,6681433387,Hyderabad,Sales Executive,2726243,YD509333,P83785503,Yohannan and Sons,Special educational needs teacher,Email,No,Yes,No,Yes,Yes,No,No
+zara_shanker_id,Parinaaz Bhargava,61,Female,parinaazbhargava@example.com,8456750819,Kolkata,HR Manager,1251062,ZY436248,P67094017,"Dugar, Kant and Rao",Geophysicist/field seismologist,Phone,No,Yes,Yes,No,No,No,No
+amani_mahajan_id,Shamik Rajagopalan,25,Male,shamikrajagopalan@example.com,6553852430,Mumbai,Retired,1319645,Ff643865,P59629927,Kadakia Ltd,"Designer, exhibition/display",Email,No,No,Yes,No,No,No,Yes
+umang_jain_id,Aaina Dutta,56,Female,aainadutta@example.com,8479499515,Hyderabad,Start-up Founder,1927228,nZ126213,P22067371,Trivedi-Dara,Financial trader,Email,Yes,No,Yes,No,Yes,No,Yes
+chirag_sridhar_id,Anya Boase,44,Male,anyaboase@example.com,6783447239,Hyderabad,IT Professional,2763322,XS404899,P58555045,Jayaraman-Wable,Passenger transport manager,SMS,No,Yes,Yes,No,No,No,Yes
+ayesha_chander_id,Mannat Sabharwal,45,Other,mannatsabharwal@example.com,7776762070,Hyderabad,IT Professional,1943750,TL148104,P50266790,"Rastogi, Thakur and Sundaram",Tax adviser,SMS,No,Yes,Yes,Yes,No,No,Yes
+riaan_balakrishnan_id,Veer Sastry,32,Female,veersastry@example.com,7147637518,Mumbai,Teacher,2775525,NJ552684,P47786708,Jha-Shere,Private music teacher,SMS,No,No,No,No,No,No,No
+baiju_issac_id,Divij Thaman,26,Other,divijthaman@example.com,9402445181,Kochi,Doctor,1802863,Cw368115,P60173585,Kade-Singh,Fashion designer,Email,No,No,No,Yes,No,No,No
+aaina_loke_id,Krish Chanda,36,Female,krishchanda@example.com,8757947451,Pune,Teacher,2865372,DN178080,P46787923,Varma-Raja,Further education lecturer,SMS,Yes,Yes,No,No,No,Yes,No
+anya_talwar_id,Prerak Loke,34,Male,prerakloke@example.com,8249830882,Kolkata,Doctor,1149905,Bu038591,P81593282,"Tank, Rastogi and Kata",Press sub,Phone,No,No,Yes,Yes,No,No,No
+mahika_dass_id,Vidur Chaudhuri,37,Male,vidurchaudhuri@example.com,8107115945,Mumbai,Retired,406177,ja820278,P68672073,Gupta-Madan,Newspaper journalist,Phone,Yes,No,No,No,Yes,No,No
+rati_dey_id,Piya Lala,61,Male,piyalala@example.com,8490659512,Delhi,Sales Executive,466357,Gm881227,P68590242,Shanker and Sons,Marketing executive,Phone,Yes,Yes,No,No,Yes,Yes,No
+mannat_jhaveri_id,Zain Barad,24,Other,zainbarad@example.com,9301756053,Kolkata,Doctor,2624782,bV953202,P47682313,"Sandhu, Shah and Roy",Counselling psychologist,SMS,No,No,Yes,No,No,No,Yes
+onkar_gupta_id,Raghav Manne,55,Other,raghavmanne@example.com,9451393914,Ahmedabad,Sales Executive,334100,js007664,P46100753,"Srinivas, Shenoy and Bhatti",Educational psychologist,SMS,No,No,No,No,No,No,No
+kanav_dhawan_id,Sumer Karnik,48,Male,sumerkarnik@example.com,7693040231,Chennai,Sales Executive,1710728,eT052146,P29519142,Rao PLC,Minerals surveyor,Email,No,No,Yes,Yes,No,Yes,No
